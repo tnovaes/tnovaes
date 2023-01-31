@@ -2,7 +2,7 @@
 
 - 😄 I’m studying to become a software engineer.
 - 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
-- 🌱 I’m currently learning JStack...
+- 🌱 I’m currently learning JStack
 
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="lipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
